@@ -1,6 +1,6 @@
 :root {
   /* APP ELEMENTS */
-  --app-bg: url(https://ibb.co/5g7dXB7S);
+  --app-bg: url(https://github.com/M5K40/BetterDiscordWindowsBlack8K/blob/main/DarkW118K.png);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 18px;

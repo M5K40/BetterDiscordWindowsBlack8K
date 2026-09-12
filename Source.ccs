@@ -10,9 +10,9 @@
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
-  --accent-hue: 260;
-  --accent-saturation: 83%;
-  --accent-lightness: 72%;
+  --accent-hue: 0;
+  --accent-saturation: 0%;
+  --accent-lightness: 100%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-opacity: 0.8;
   --accent-text-color: hsl(0,0%,0%);

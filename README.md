@@ -5,6 +5,7 @@ Vencord link ```https://raw.githubusercontent.com/M5K40/BetterDiscordWindowsBlac
 
 Update:
 Added white notification icons and server previews. Also fixed border going pink when replying to another user.
-![Uploading Screenshot 2026-09-13 183543 (1).png…]()
+<img width="1919" height="1079" alt="Screenshot 2026-09-13 183543 (1)" src="https://github.com/user-attachments/assets/7784bbfd-2321-48cc-9306-a981bfe10d60" />
+
 
 
